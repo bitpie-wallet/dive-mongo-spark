@@ -51,7 +51,7 @@ HELP.md
 
 pre-commit-hook.sh
 /out/
-
+/project/
 /nbproject/private/
 /build/
 /nbbuild/
